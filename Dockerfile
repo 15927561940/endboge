@@ -1,4 +1,4 @@
-FROM harbor.boge.com/library/python:3.5-slim-stretch
+FROM python:3.5-slim-stretch
 MAINTAINER boge
 
 WORKDIR /kae/app
